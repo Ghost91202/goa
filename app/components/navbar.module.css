@@ -1,0 +1,5 @@
+/* navbar.module.css - legacy file replaced by Tailwind in Navbar.js
+   Kept intentionally minimal to avoid build/lint issues while migrating.
+*/
+
+/* no styles here; Navbar now uses Tailwind utility classes */
