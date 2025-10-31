@@ -13,12 +13,7 @@
 
 /* font variables are provided by layout.js via the Geist font imports */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+
 
 body {
   background: linear-gradient(120deg, #fff4f8 0%, #f7f7fa 100%);
